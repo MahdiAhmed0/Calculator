@@ -10,4 +10,4 @@
 
 ## Credits
 * Mahdi - Developer.
-* Dr. SHAHABUDDIN MUHAMMAD - Advisor.
+* Dr. SHAHABUDDIN MUHAMMAD - Helped me a lot.
