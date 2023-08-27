@@ -9,5 +9,5 @@
 السكربت جداً معقد.
 
 ## Credits
-* Mahdi - Developer.
+* Mahdi - The Developer.
 * Dr. SHAHABUDDIN MUHAMMAD - Helped me a lot.
