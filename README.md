@@ -9,5 +9,5 @@
 السكربت جداً معقد.
 
 ## Credits
-* Mahdi - The Developer.
+* Mahdi (Fibonacci) - The Developer.
 * Dr. SHAHABUDDIN MUHAMMAD - Helped me a lot.
